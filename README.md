@@ -13,3 +13,6 @@ An automated script that validates the reset functionality of a 2048 game using 
 * Python
 * An OCR engine
 * UI automation and image processing libraries
+
+
+<video src="Appium - 2048.mp4" width="600" controls autoplay loop muted></video>
